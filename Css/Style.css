@@ -7,12 +7,28 @@ html {
     background-attachment: fixed; 
 }
 .box {
+    backdrop-filter: blur(2px);
     background-color:  #00000000;
 }
 .card {
+    animation: fade 0.2s ease-in-out;
     background-color: #FFFFFF85;
     backdrop-filter: blur(6px);
+    transition: 0.1s linear .05s;
 }
-.tabs{
-          
-        }
+.card:hover{
+    background-color: #FFFFFFCF;
+    transform: scale(1.01);
+}
+@keyframes fade {   
+  from {   
+    scale: 0.5;
+  transform: translateX(-500px);  
+    opacity: 0;
+  }   
+  to {
+    scale: 1;
+    transform: translateX(0px);  
+   opacity: 1;
+   }
+}
