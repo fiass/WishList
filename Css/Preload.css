@@ -25,11 +25,11 @@
   position: absolute;
   display: inline-block;
   top: 0;
-  background-color: #337ab7;
+  background-color: #CF57EFA6;
   border-radius: 100%;
   width: 35px;
   height: 35px;
-  animation: preloader-bounce 2s infinite ease-in-out;
+  animation: preloader-bounce 1s infinite ease-in-out;
 }
 
 .preloader__item:last-child {
@@ -57,7 +57,7 @@
 }
 
 .loaded_hiding .preloader {
-  transition: 0.3s opacity;
+  transition: 1.0s opacity;
   opacity: 0;
 }
 
