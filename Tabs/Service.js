@@ -11,7 +11,7 @@ document.write(`
   <footer class="card-footer">
     <p class="card-footer-item">
       <span>
-        Цена на момент поста: <r class="price">99</r> ₽
+        Цена на момент поста: <r class="price"><strong>99</strong></r> ₽
       </span>
     </p>
     <p class="card-footer-item">
@@ -35,7 +35,7 @@ document.write(`
   <footer class="card-footer">
     <p class="card-footer-item">
       <span>
-        Цена на момент поста: <r class="price">370</r> ₽
+        Цена на момент поста: <r class="price"><strong>370</strong></r> ₽
       </span>
     </p>
     <p class="card-footer-item">
@@ -59,7 +59,7 @@ document.write(`
   <footer class="card-footer">
     <p class="card-footer-item">
       <span>
-        Цена на момент поста: <r class="price">59</r> ₽
+        Цена на момент поста: <r class="price"><strong>59</strong></r> ₽
       </span>
     </p>
     <p class="card-footer-item">
@@ -83,7 +83,7 @@ document.write(`
   <footer class="card-footer">
     <p class="card-footer-item">
       <span>
-        Цена на момент поста: <r class="price">199</r> ₽
+        Цена на момент поста: <r class="price"><strong>199</strong></r> ₽
       </span>
     </p>
     <p class="card-footer-item">
@@ -107,7 +107,7 @@ document.write(`
   <footer class="card-footer">
     <p class="card-footer-item">
       <span>
-        Цена на момент поста: <r class="price">550</r> ₽
+        Цена на момент поста: <r class="price"><strong>550</strong></r> ₽
       </span>
     </p>
     <p class="card-footer-item">

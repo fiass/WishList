@@ -1,10 +1,11 @@
 html {
+    scroll-behavior: smooth;
     size: 90%;
     background-image: url(../Resources/Sakura.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    background-attachment: fixed; 
+    background-attachment: fixed;
 }
 .box {
     backdrop-filter: blur(2px);
