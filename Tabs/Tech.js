@@ -1,6 +1,31 @@
 document.write(`
 
 <div class="card">
+<span class="tag is-primary is-light">Dream</span>
+  <div class="card-content">
+    <p class="title">
+    SUR-RON X Black
+    </p>
+    <p class="subtitle">
+     Максимальная скорость: 80 км/ч Мощность двигателя: 6 000 W. Емкость аккумулятора: 60V 40ah. Время зарядки: 4 часа. Запас хода: 100 км;
+    </p>
+  </div>
+  <footer class="card-footer">
+    <p class="card-footer-item">
+      <span>
+        Цена на момент поста: <r class="price"><strong>339 000</strong></r> ₽
+      </span>
+    </p>
+    <p class="card-footer-item">
+      <span>
+        Узнать цену сейчас: <a href="https://surron-russia.ru/sur-ron-x-light-bee/">surron-russia.ru</a>
+      </span>
+    </p>
+  </footer>
+</div>
+<p class="mb-4"></p>
+
+<div class="card">
 <span class="tag is-warning is-light">Daily</span>
   <div class="card-content">
     <p class="title">
