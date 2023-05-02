@@ -55,35 +55,35 @@
 	<div class="px-4">
 
 		<div id="stat" style="display: none;">
-		<script src="Tabs/Statistic.js"></script>
+			<script src="Tabs/Statistic.js"></script>
+		</div>
+
+		<div id="plug">
+			<script src="Tabs/Tech.js"></script>
+		</div>
+
+		<div id="shopping" style="display: none;">
+			<script src="Tabs/Service.js"></script>
+		</div>
+
+		<div id="couch" style="display: none;">
+			<script src="Tabs/Furniture.js"></script>
+		</div>
+
+		<div id="gem" style="display: none;">
+			<script src="Tabs/Design.js"></script>
+		</div>
+
 	</div>
 
-	<div id="plug">
-		<script src="Tabs/Tech.js"></script>
-	</div>
-
-	<div id="shopping" style="display: none;">
-		<script src="Tabs/Service.js"></script>
-	</div>
-
-	<div id="couch" style="display: none;">
-		<script src="Tabs/Furniture.js"></script>
-	</div>
-
-	<div id="gem" style="display: none;">
-		<script src="Tabs/Design.js"></script>
-	</div>
-
-</div>
-
-<script>
-  window.onload = function () {
-    document.body.classList.add('loaded_hiding');
-    window.setTimeout(function () {
-      document.body.classList.add('loaded');
-      document.body.classList.remove('loaded_hiding');
-    }, 2000);
-  }
-</script>
+	<script>
+		window.onload = function () {
+			document.body.classList.add('loaded_hiding');
+			window.setTimeout(function () {
+				document.body.classList.add('loaded');
+				document.body.classList.remove('loaded_hiding');
+			}, 2000);
+		}
+	</script>
 </body>
 </html>
