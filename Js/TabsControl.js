@@ -26,12 +26,28 @@ function gem()
 	removeclass();
 	addclass("gem_btn");
 }
+function ronight()
+{
+	closeall();
+	document.getElementById("ro").style.display = '';
+	removeclass();
+	addclass("RoNight_btn");
+}
+function torri()
+{
+	closeall();
+	document.getElementById("to").style.display = '';
+	removeclass();
+	addclass("Torri_btn");
+}
 function closeall()
 {
 	document.getElementById("plug").style.display = 'none';
-	 document.getElementById("shopping").style.display = 'none';
-	 document.getElementById("couch").style.display = 'none';
-	 document.getElementById("gem").style.display = 'none';
+	document.getElementById("shopping").style.display = 'none';
+	document.getElementById("couch").style.display = 'none';
+	document.getElementById("gem").style.display = 'none';
+	document.getElementById("ro").style.display = 'none';
+	document.getElementById("to").style.display = 'none';
 }
 function removeclass()
 {
@@ -39,6 +55,8 @@ function removeclass()
 	document.getElementById("shopping_btn").classList.remove('is-active');
 	document.getElementById("couch_btn").classList.remove('is-active');
 	document.getElementById("gem_btn").classList.remove('is-active');
+	document.getElementById("RoNight_btn").classList.remove('is-active');
+	document.getElementById("Torri_btn").classList.remove('is-active');
 }
 function addclass(btname)
 {
