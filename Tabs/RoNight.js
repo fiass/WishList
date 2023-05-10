@@ -121,9 +121,9 @@ document.write(`
 
 Миленький светильник конструктор
   
-  </p>  не на мотоцикле
+  </p>  
  <p class="subtitle">
-
+не на мотоцикле
 
   </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
   
@@ -149,7 +149,7 @@ document.write(`
 
 постельное белье
   
-  </p>  Мягкое или шёлковое<p class="subtitle">
+  </p><p class="subtitle">  Мягкое или шёлковое
 
  
 
@@ -164,9 +164,9 @@ document.write(`
 
 Коврик для мыши
   
-  </p> Размер: 900 мм x 400 мм <p class="subtitle">
+  </p><p class="subtitle">
 
- 
+  Размер: 900 мм x 400 мм 
 
   </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
   
@@ -179,9 +179,9 @@ document.write(`
 
  Данго (японская сладость)
   
-  </p> Данго - это небольшие (размером с орех) рисовые колобки, не имеющие вообще никакой начинки. Особенный вкус и небольшую сладость им придает специфический соус. Данго - блюдо с традицией. Его обычно подавали к столу в праздник любования луной – Цукими. Как правило, на блюдо выкладывали 15 шариков в виде пирамиды - это количество символизирует число месяца, в которое наступает самая лунная ночь.
- <p class="subtitle">
-
+  </p> <p class="subtitle">
+Данго - это небольшие (размером с орех) рисовые колобки, не имеющие вообще никакой начинки. Особенный вкус и небольшую сладость им придает специфический соус. Данго - блюдо с традицией. Его обычно подавали к столу в праздник любования луной – Цукими. Как правило, на блюдо выкладывали 15 шариков в виде пирамиды - это количество символизирует число месяца, в которое наступает самая лунная ночь.
+ 
  
   </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
   
@@ -195,9 +195,9 @@ document.write(`
 
 Японский шоколад матча
   
-  </p>я не знаю где его достать, пробывал только в детстве. <p class="subtitle">
+  </p><p class="subtitle">
 
- 
+ я не знаю где его достать, пробывал только в детстве. 
   </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
   
   Купить: <a href="https://roycechocolate.com/collections/matcha/products/nama-chocolate-matcha">roycechocolate</a>
