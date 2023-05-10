@@ -108,6 +108,7 @@ document.write(`
   Повербанк
   
   </p> <p class="subtitle">
+  
 
   </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
   
@@ -130,4 +131,93 @@ document.write(`
   
   </span></p></footer></div><p class="mb-4"></p>
 
+
+     <div class="card"><div class="card-content"><p class="title">
+
+Пушистый коврик
+  
+  </p> <p class="subtitle">
+
+  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
+  
+  Купить: <a href="https://aliexpress.ru/item/4001290992101.html?sku_id=12000018541336514&spm=a2g2w.productlist.search_results.4.66f34aa6wnFfyi">Алиэкпресс</a>
+  
+  </span></p></footer></div><p class="mb-4"></p>
+
+
+   <div class="card"><div class="card-content"><p class="title">
+
+постельное белье
+  
+  </p> <p class="subtitle">
+
+  Мягкое или шёлковое
+
+  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
+  
+  Купить: <a href="">нету</a>
+  
+  </span></p></footer></div><p class="mb-4"></p>
+
+
+
+    <div class="card"><div class="card-content"><p class="title">
+
+постельное белье
+  
+  </p> <p class="subtitle">
+
+  Мягкое или шёлковое
+
+  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
+  
+  Купить: <a href="">нету</a>
+  
+  </span></p></footer></div><p class="mb-4"></p>
+
+
+   <div class="card"><div class="card-content"><p class="title">
+
+Коврик для мыши
+  
+  </p> <p class="subtitle">
+
+  Размер: 900 мм x 400 мм
+
+  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
+  
+  Купить: <a href="">нету</a>
+  
+  </span></p></footer></div><p class="mb-4"></p>
+
+
+   <div class="card"><div class="card-content"><p class="title">
+
+ Данго (японская сладость)
+  
+  </p> <p class="subtitle">
+
+  Данго - это небольшие (размером с орех) рисовые колобки, не имеющие вообще никакой начинки. Особенный вкус и небольшую сладость им придает специфический соус. Данго - блюдо с традицией. Его обычно подавали к столу в праздник любования луной – Цукими. Как правило, на блюдо выкладывали 15 шариков в виде пирамиды - это количество символизирует число месяца, в которое наступает самая лунная ночь.
+
+  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
+  
+  Купить: <a href="">нету</a>
+  
+  </span></p></footer></div><p class="mb-4"></p>
+
+
+
+<div class="card"><div class="card-content"><p class="title">
+
+Японский шоколад матча
+  
+  </p> <p class="subtitle">
+
+ я не знаю где его достать, пробывал только в детстве.
+
+  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
+  
+  Купить: <a href="https://roycechocolate.com/collections/matcha/products/nama-chocolate-matcha">roycechocolate</a>
+  
+  </span></p></footer></div><p class="mb-4"></p>
 `);
