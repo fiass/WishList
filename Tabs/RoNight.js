@@ -204,13 +204,13 @@ document.write(`
 
  <div class="card"><div class="card-content"><p class="title">
 
-Аккумуляторная отвертка Xiaomi Wowstick
+Аккумуляторная отвертка Xiaomi Mijia Electric Screwdriver 24in1
 
  </p><p class="subtitle">
 
  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
 
- Купить: <a href="https://sbermegamarket.ru/catalog/details/akkumulyatornaya-otvertka-xiaomi-wowstick-1f-69-v-1-seryy-grey-100024146431/?yclid=2547842406847683153&utm_source=yandex&utm_medium=cpc&utm_campaign=smm_tovarnye%3A4_stroitelstvo_%5Bkgt_reg%5D_%7C77292065%7C&utm_term=2759645.13723269725.&utm_content=4993671006.premium.2.0.none.172.%D0%A3%D1%84%D0%B0&adjust_ya_click_id=2547842406847683153&adjust_campaign=smm_tovarnye%3A4_stroitelstvo_%5Bkgt_reg%5D&adjust_tracker=4a3jxi1_j6n0ehs">Сбер МегаМаркет</a>
+ Купить: <a href="https://sbermegamarket.ru/catalog/details/elektricheskaya-otvertka-xiaomi-mijia-electric-screwdriver-24in1-mjddlsd003qw-600002352752/">Сбер МегаМаркет</a>
 
  </span></p></footer></div><p class="mb-4"></p>
  `);
