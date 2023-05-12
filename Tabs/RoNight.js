@@ -200,4 +200,17 @@ document.write(`
  Купить: <a href="https://market.yandex.ru/product--mashinka-xiaomi-mijia-mqxjq01kl/663768696?text=xiaomi%20%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE&cpc=zBmKTmw_n_Nlq0BlUeR6Tp6hz-e8TAx5Kq_cEJhC6aa6O_ofhtzPTNtNWmXmMs5xvc45qcDXRwhDuHYoDrBdcUvLTW_tKxCgKrMEx-01IPNGRQ_sJtc4gjzxzgZbn7egTkFEKZW6Jvo7DpIPxF5sqo7ohjjyDkeYFj_4cQtmqHXAwoT-HOE6Jdc_kpOU8VHiiQ8w-OA_ii8k_iEQmSdeSRCzqAobj-NjsUME5I51Ld_EcaI55fE33fRbuUqknqebqI7C2_vWc_tU1D9W1-_mMQ%2C%2C&sku=100925790579&do-waremd5=vA5fni7s1Vc9yhx9TrnaTw&cpa=1&nid=18054959">Я.Маркет</a>
 
  </span></p></footer></div><p class="mb-4"></p>
+
+
+ <div class="card"><div class="card-content"><p class="title">
+
+Аккумуляторная отвертка Xiaomi Wowstick
+
+ </p><p class="subtitle">
+
+ </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
+
+ Купить: <a href="https://sbermegamarket.ru/catalog/details/akkumulyatornaya-otvertka-xiaomi-wowstick-1f-69-v-1-seryy-grey-100024146431/?yclid=2547842406847683153&utm_source=yandex&utm_medium=cpc&utm_campaign=smm_tovarnye%3A4_stroitelstvo_%5Bkgt_reg%5D_%7C77292065%7C&utm_term=2759645.13723269725.&utm_content=4993671006.premium.2.0.none.172.%D0%A3%D1%84%D0%B0&adjust_ya_click_id=2547842406847683153&adjust_campaign=smm_tovarnye%3A4_stroitelstvo_%5Bkgt_reg%5D&adjust_tracker=4a3jxi1_j6n0ehs">Сбер МегаМаркет</a>
+
+ </span></p></footer></div><p class="mb-4"></p>
  `);
