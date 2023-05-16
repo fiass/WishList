@@ -213,4 +213,17 @@ document.write(`
  Купить: <a href="https://sbermegamarket.ru/catalog/details/elektricheskaya-otvertka-xiaomi-mijia-electric-screwdriver-24in1-mjddlsd003qw-600002352752/">Сбер МегаМаркет</a>
 
  </span></p></footer></div><p class="mb-4"></p>
+
+
+ <div class="card"><div class="card-content"><p class="title">
+
+Японские Палочки
+
+ </p><p class="subtitle">
+
+ </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
+
+ Купить: <a href="https://market.yandex.ru/product--palochki-dlia-edy-rolly-i-sushi-metall-24-sm-tm-segun-2-sht-iaponiia/1490303175?text=%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B5%20%D0%BF%D0%B0%D0%BB%D0%BE%D1%87%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D0%B5%D0%B4%D1%8B&cpc=bJklDOMiw93zba3mNph6RSdVtScyED4o3Iu1QvSRZchQ_6wfUCuhF_X0plrjcYPZfHnjvy1y3x6Cb5lGwJ2K8g2uTEE1TY8ZaceTS6Nf2UutjTNJMHr003LKl4IA109y6k8PlDnu5Z-toIJ_IYnt1NuuEWk0K03FRJ0FgcMsUVrUsOa-UawXQpn3NzFtBqwbNJLBnhoL6yA%2C&sku=101529852466&do-waremd5=n82Yb1ztJMmRIyJgPJMW2g&cpa=1&nid=69177">Я.Маркет</a>
+
+ </span></p></footer></div><p class="mb-4"></p>
  `);
