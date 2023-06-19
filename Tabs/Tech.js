@@ -130,6 +130,32 @@ document.write(`
 <span class="tag is-link is-light">PC</span>
   <div class="card-content">
     <p class="title">
+   Elgato StreamDeck mk1
+    </p>
+    <p class="subtitle">
+    15 программируемых ЖК-клавиш
+    </p>
+  </div>
+  <footer class="card-footer">
+    <p class="card-footer-item">
+      <span>
+        Цена на момент поста: <r class="price"><strong>10 000</strong></r> ₽
+      </span>
+    </p>
+    <p class="card-footer-item">
+      <span>
+        Узнать цену сейчас: <a href="https://www.avito.ru/ufa?q=stream+deck">Авито</a>
+      </span>
+    </p>
+  </footer>
+</div>
+<p class="mb-4"></p>
+
+
+<div class="card">
+<span class="tag is-link is-light">PC</span>
+  <div class="card-content">
+    <p class="title">
   Блок питания DEEPCOOL DQ750 [DQ750-M-V2L]
     </p>
     <p class="subtitle">
