@@ -219,15 +219,5 @@ document.write(`
 
 
 
-   <div class="card"><div class="card-content"><p class="title">
 
- кейкапчики c японской раскладкой
-  
-  </p> <p class="subtitle">
-
-  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
-  
-  Купить: <a href="https://sl.aliexpress.ru/p?key=guPtZeJ">Алиэкспресс</a>
-  
-  </span></p></footer></div><p class="mb-4"></p>
   `);
