@@ -11,6 +11,7 @@ document.write(`
 
  </span></p></footer></div><p class="mb-4"></p>
 
+
  <div class="card"><div class="card-content"><p class="title">
 
  Ulanzu Vl81 Свет
@@ -22,6 +23,7 @@ document.write(`
  Купить: <a href="">нету</a>
 
  </span></p></footer></div><p class="mb-4"></p>
+
 
  <div class="card"><div class="card-content"><p class="title">
 
@@ -35,6 +37,7 @@ document.write(`
 
  </span></p></footer></div><p class="mb-4"></p>
 
+
  <div class="card"><div class="card-content"><p class="title">
 
  Кружка 500мл
@@ -47,6 +50,7 @@ document.write(`
 
  </span></p></footer></div><p class="mb-4"></p>
 
+
  <div class="card"><div class="card-content"><p class="title">
 
  Острые чипсы:3
@@ -58,6 +62,7 @@ document.write(`
  Купить: <a href="">нету</a>
 
  </span></p></footer></div><p class="mb-4"></p>
+
 
  <div class="card"><div class="card-content"><p class="title">
 
@@ -88,6 +93,7 @@ document.write(`
 
  <div class="card"><div class="card-content"><p class="title">
 
+
  Повербанк
 
  </p> <p class="subtitle">
@@ -112,6 +118,7 @@ document.write(`
 
  </span></p></footer></div><p class="mb-4"></p>
 
+
  <div class="card"><div class="card-content"><p class="title">
 
  постельное белье
@@ -123,6 +130,7 @@ document.write(`
  Купить: <a href="">нету</a>
 
  </span></p></footer></div><p class="mb-4"></p>
+
 
  <div class="card"><div class="card-content"><p class="title">
 
@@ -137,6 +145,8 @@ document.write(`
  Купить: <a href="">нету</a>
 
  </span></p></footer></div><p class="mb-4"></p>
+
+
 
  <div class="card"><div class="card-content"><p class="title">
 
@@ -181,17 +191,7 @@ document.write(`
  </span></p></footer></div><p class="mb-4"></p>
 
 
- <div class="card"><div class="card-content"><p class="title">
-
-Аккумуляторная отвертка Xiaomi Mijia Electric Screwdriver 24in1
-
- </p><p class="subtitle">
-
- </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
-
- Купить: <a href="https://sbermegamarket.ru/catalog/details/elektricheskaya-otvertka-xiaomi-mijia-electric-screwdriver-24in1-mjddlsd003qw-600002352752/">Сбер МегаМаркет</a>
-
- </span></p></footer></div><p class="mb-4"></p>
+ 
 
 
  <div class="card"><div class="card-content"><p class="title">

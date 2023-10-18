@@ -121,20 +121,6 @@ document.write(`
 
 
 
-
-  <div class="card"><div class="card-content"><p class="title">
-
-  Абсолютно любые кастомные вещи своими ручками 
-
-  </p> <p class="subtitle">
-
-  </p> </div><footer class="card-footer"><p class="card-footer-item"><span></span></p><p class="card-footer-item"><span>
-
-  Купить: <a href="">нету</a>
-  
-  </span></p></footer></div><p class="mb-4"></p>
-
-
   <div class="card"><div class="card-content"><p class="title">
 
   Картина по номерам 
